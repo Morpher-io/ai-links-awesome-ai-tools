@@ -1332,6 +1332,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 116. [Bifrost](https://www.bifrost.so/) 👉 Use AI to turn your Figma designs into clean React code automatically.
 
+117. [Reducto](https://reducto.ai/) 👉 Agentic document platform for parsing, extracting, classifying, splitting, and editing complex documents via API.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
